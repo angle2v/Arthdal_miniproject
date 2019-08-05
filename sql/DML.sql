@@ -1,0 +1,60 @@
+-- activist insert[재능 기부자 저장]
+-- 이름 / 종족 / 부족 / 지역 / 신
+
+insert into Arthdal values('타곤', '이그트', '새녘족', '아스달','아라문 헤슬라');
+insert into Arthdal values('은섬', '이그트', '와한족', '이아르크','물의 신 이소드녕');
+insert into Arthdal values('탄야', '사람', '와한족', '이아르크','물의 신 이소드녕');
+insert into Arthdal values('태알하', '사람', '해족', '아스달','불의 신 에차빕');
+insert into Arthdal values('사야', '이그트', '새녘족', '아스달','아라문 헤슬라');
+insert into Arthdal values('산웅', '사람', '새녘족', '아스달','대지의 신 다라부루');
+insert into Arthdal values('무백', '사람', '물길족 ', '아스달','사냥의 신 미하제');
+insert into Arthdal values('단벽', '사람', '새녘족', '아스달','대지의 신 다라부루');
+insert into Arthdal values('길선', '사람', '흰산족 ', '아스달','물의 신 이소드녕');
+insert into Arthdal values('연발', '사람', '새녘족','아스달','대지의 신 다라부루');
+insert into Arthdal values('기토하', '사람', '흰산족 ', '아스달','물의 신 이소드녕');
+insert into Arthdal values('무광', '사람', '물길족 ', '아스달','사냥의 신 미하제');
+insert into Arthdal values('양차', '사람', '새녘족 ', '아스달','사냥의 신 미하제');
+insert into Arthdal values('아사론', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('아사사칸', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('아사못', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('아사욘', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('아사무', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('아사혼', '사람', '흰산족 ', '아스달','아스의 여덞신');
+insert into Arthdal values('해미홀', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해투악', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해흘립', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해여비', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해알영', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해가온', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해까닥', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('해때문', '사람', '해족 ', '아스달','불의 신 에차빕');
+insert into Arthdal values('하림', '사람', '흰산족', '아스달','물의 신 이소드녕');
+insert into Arthdal values('모명진', '사람', '흰산족', '아스달','물의 신 이소드녕');
+insert into Arthdal values('채은', '사람', '흰산족', '아스달','물의 신 이소드녕');
+insert into Arthdal values('눈별', '뇌안탈', '뇌안탈족', '아스달','물의 신 이소드녕');
+insert into Arthdal values('열손', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('초설 ', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('달새', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('뭉태', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('터대', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('북쇠', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('둔지', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('검불', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('아가지', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('우루미', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('도티', '사람', '와한족', '아스달','아라문 헤슬라');
+insert into Arthdal values('라가즈', '뇌안탈', '뇌안탈족','달의평원','무교');
+insert into Arthdal values('라크느루프', '뇌안탈', '뇌안탈족','달의평원','무교');
+insert into Arthdal values('무트루브', '뇌안탈', '뇌안탈족','달의평원','무교');
+insert into Arthdal values('이쓰루브', '뇌안탈', '뇌안탈족','달의평원','무교');
+insert into Arthdal values('잎생', '사람', '아고족','돌담불','무교');
+insert into Arthdal values('바도루', '사람', '캐란족','돌담불','무교');
+insert into Arthdal values('올마대', '사람', '새녘족','돌담불','무교');
+insert into Arthdal values('사트닉', '사람', '모모족','돌담불','무교');
+insert into Arthdal values('차나라기', '사람', '물길족','돌담불','무교');
+insert into Arthdal values('쇼르자긴', '사람', '소수부족','돌담불','무교');
+insert into Arthdal values('골두', '사람', '소수부족','돌담불','무교');
+insert into Arthdal values('거한', '사람', '소수부족','돌담불','무교');
+
+
+commit;
